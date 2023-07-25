@@ -1,0 +1,76 @@
+{
+	"id": 1285,
+	"name": "Metallica",
+	"description": "Metallica is a legendary American heavy metal band formed in 1981. Comprising James Hetfield, Lars Ulrich, Kirk Hammett, and Robert Trujillo, they are pioneers of thrash metal. Their influential career includes iconic albums like \"Master of Puppets,\" the self-titled \"Black Album,\" and their most recent album: \"72 Seasons\" Metallica's music features powerful riffs, emotional lyrics, and a blend of mainstream and aggressive sounds. With a massive global fanbase, they remain one of the most successful and enduring bands in heavy metal history.",
+	"links": {
+		"subreddit": [
+			"metallica"
+		]
+	},
+	"path": {
+		"219": [
+			[
+				-965,
+				-229
+			],
+			[
+				-954,
+				-262
+			],
+			[
+				-940,
+				-273
+			],
+			[
+				-938,
+				-264
+			],
+			[
+				-891,
+				-264
+			],
+			[
+				-891,
+				-272
+			],
+			[
+				-880,
+				-260
+			],
+			[
+				-877,
+				-249
+			],
+			[
+				-901,
+				-250
+			],
+			[
+				-907,
+				-253
+			],
+			[
+				-925,
+				-253
+			],
+			[
+				-929,
+				-249
+			],
+			[
+				-940,
+				-250
+			],
+			[
+				-959,
+				-236
+			]
+		]
+	},
+	"center": {
+		"219": [
+			-946,
+			-257
+		]
+	}
+}
