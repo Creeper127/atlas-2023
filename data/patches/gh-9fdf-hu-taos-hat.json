@@ -1,0 +1,63 @@
+{
+	"id": -1,
+	"name": "Hu-Tao's Hat",
+	"description": "This art depicts the hat worn by the character Hu-Tao in Genshin Impact",
+	"links": {
+		"subreddit": [
+			"genshin_impact"
+		],
+		"discord": [
+			"sumeru"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-84,
+				361
+			],
+			[
+				-59,
+				361
+			],
+			[
+				-53,
+				357
+			],
+			[
+				-54,
+				348
+			],
+			[
+				-59,
+				348
+			],
+			[
+				-62,
+				350
+			],
+			[
+				-68,
+				350
+			],
+			[
+				-71,
+				347
+			],
+			[
+				-80,
+				353
+			],
+			[
+				-84,
+				358
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-71,
+			355
+		]
+	}
+}
