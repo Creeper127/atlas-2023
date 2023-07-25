@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Ganyu",
+	"description": "Ganyu is a character from the 2020 open-world game \"Genshin Impact\"",
+	"links": {
+		"subreddit": [
+			"genshin_impact"
+		],
+		"discord": [
+			"sumeru"
+		]
+	},
+	"path": {
+		"220": [
+			[
+				-897,
+				-192
+			],
+			[
+				-897,
+				-210
+			],
+			[
+				-914,
+				-210
+			],
+			[
+				-914,
+				-192
+			]
+		]
+	},
+	"center": {
+		"220": [
+			-905,
+			-201
+		]
+	}
+}
