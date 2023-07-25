@@ -1,0 +1,75 @@
+{
+	"id": -1,
+	"name": "Yae Miko",
+	"description": "This art depicts Yae Miko from Genshin Impact in her fox form. She began laying down on the Chinese logo before hanging on to the logo when it was flipped on day 2. When the logo was flipped back over on day 3, she was moved to be leaning on the logo looking tired before finally being moved back to where she began.",
+	"links": {
+		"subreddit": [
+			"genshin_impact"
+		],
+		"discord": [
+			"sumeru"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-71,
+				269
+			],
+			[
+				-70,
+				270
+			],
+			[
+				-66,
+				266
+			],
+			[
+				-66,
+				264
+			],
+			[
+				-68,
+				262
+			],
+			[
+				-74,
+				254
+			],
+			[
+				-82,
+				254
+			],
+			[
+				-86,
+				259
+			],
+			[
+				-87,
+				262
+			],
+			[
+				-84,
+				262
+			],
+			[
+				-83,
+				265
+			],
+			[
+				-83,
+				266
+			],
+			[
+				-72,
+				266
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-77,
+			260
+		]
+	}
+}
